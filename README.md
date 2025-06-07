@@ -1,7 +1,9 @@
 # Big-Data-Management
 WQD7007 Big Data Management
 WQD7007 BIG DATA MANAGEMENT
+
 Important Links: 
+
 [Ubuntu or centos, VirtualBox, Hadoop]
 1.	1st Way - Install Ubuntu 24.04 on WSL (Windows Subsystem for Linux) https://youtu.be/Cn1DYQwGY8o 
 2.	2nd Way - How to install Ubuntu in Virtualbox https://youtu.be/hYaCCpvjsEY 
@@ -14,7 +16,8 @@ Important Links:
 9.	2nd Way - How to run an Ubuntu Desktop virtual machine using VirtualBox https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview 
 10.	3rd Way - Download Ubuntu Desktop https://ubuntu.com/download/desktop 
 
-Recording 
+
+ Topics Covered
 1.	Week 1: Introduction, Big data  
 2.	Week 2: Big Data Pipeline Using Hadoop, Introduction to Linux, HDFS, Hadoop in 5 minutes, Lab 1 and Lab 2
 3.	Week 3: Big Data Concepts: providing structure to unstructured data, Puch Card Sorters,  NLP, Structured and Unstructured, Machine Translation
